@@ -1,4 +1,7 @@
-### Hi there 👋
+###  👋
+
+![an-0611's github stats](https://github-readme-stats.vercel.app/api?username=an-0611&count_private=true&show_icons=true&include_all_commits=true)   
+![an-0611's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an-0611&layout=compact)
 
 <!--
 **an-0611/an-0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
