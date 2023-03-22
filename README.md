@@ -3,7 +3,7 @@
 My name is An He, live in Taipei, Taiwan. 
 
 - 💼 I'm a Front-end developer @Garena
-- 🌱 This is my personal website [hean.tw](https://hean.tw), some applications will be released in here
+- 🌱 This is my personal website <a href="https://hean.tw/" target="_blank">hean.tw</a> , some applications will be released in here
 - 📫 You can reach me via an19940611@gmail.com  
 
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=an-0611&layout=compact&langs_count=10" />
