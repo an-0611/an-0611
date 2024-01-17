@@ -2,7 +2,7 @@
 
 My name is An He, live in Taipei, Taiwan. 
 
-- 💼 I'm a Front-end developer @Garena
+- 💼 I'm a Front-end engineer from @Garena
 - 🌱 This is my personal website <a href="https://www.hean.tw/" target="_blank">hean.tw</a> , some applications will be released in here
 - 📫 You can reach me via an19940611@gmail.com  
 
